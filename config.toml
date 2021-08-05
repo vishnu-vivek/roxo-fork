@@ -1,4 +1,4 @@
-baseURL       = "https://roxo47.netlify.app/"
+baseURL       = ""
 languageCode  = "en-us"
 title         = "Roxo | Creative Design Agency"
 theme         = "roxo"
